@@ -37,6 +37,8 @@ wget
     --http-password=password
     --proxy-password=password
     --ftp-password=password
+docker login
+    -p password
 snmpkey
     snmpkey <authProto> <password> <authEngineID> [<privProto> [<password>]]
 smbtar
